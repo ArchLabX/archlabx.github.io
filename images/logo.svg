@@ -1,0 +1,18 @@
+<!-- <p align="center"><picture> -->
+  
+    <!-- <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+  width="474.000000pt" height="130.000000pt" viewBox="0 0 474.000000 130.000000"
+  preserveAspectRatio="xMidYMid meet">
+
+  <g transform="translate(0.000000,130.000000) scale(0.100000,-0.100000)"
+  fill="currentColor" stroke="none"> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="282" height="309" style="         width:282px;         height:309px; ">
+       
+        <svg xmlns="http://www.w3.org/2000/svg" class="role-diagram-draw-area"><g class="shapes-region" style="stroke: var(--main-text-color); fill: none;"><g class="composite-shape"><path class="real" d=" M3,34 C3,24.06 11.06,16 21,16 L253,16 C262.94,16 271,24.06 271,34 L271,268 C271,277.94 262.94,286 253,286 L21,286 C11.06,286 3,277.94 3,268 Z" style="stroke-width: 1; stroke: var(--main-text-color); fill: var(--main-text-color); fill-opacity: 1;"/></g><g class="composite-shape"><path class="real" d=" M22.18,163.22 C15.4,155.37 16.27,143.51 24.13,136.73 L131.49,44.09 C139.34,37.31 151.21,38.19 157.98,46.04 L251.13,153.99 C257.91,161.85 257.04,173.71 249.18,180.49 L141.82,273.13 C133.97,279.9 122.1,279.03 115.33,271.18 Z" style="stroke-width: 3; stroke: var(--main-text-color); stroke-opacity: 1; fill: var(--main-background-color); fill-opacity: 1;"/></g><g class="composite-shape"><path class="real" d=" M134.51,68.08 C134.56,62.8 138.87,58.55 144.15,58.6 C149.43,58.64 153.68,62.96 153.63,68.24 C153.59,73.52 149.27,77.76 143.99,77.72 C138.71,77.67 134.47,73.36 134.51,68.08 Z" style="stroke-width: 1; stroke: var(--main-background-color); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 1;"/></g><g class="composite-shape"><path class="real" d=" M163.99,50.59 L176.85,23 L191.51,37.59 Z" style="stroke-width: 1; stroke: none; stroke-opacity: 1; fill: var(--main-background-color); fill-opacity: 1;"/></g><g/></g><g/><g/><g/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="307" style="width:280px;height:307px;font-family:Asana-Math, Asana;background:#FFF;"><g transform="matrix(0.7600658111778444,-0.649846106919604,0.649846106919604,0.7600658111778444,-77.34424912613613,143.00251902117273)"><g><g><text x="70.671875" y="105.70703125" style="white-space:pre;stroke:none;fill:var(--main-text-color);fill-opacity:1;font-size:32.3205px;font-family:&quot;Courier New&quot;, Courier, monospace;font-weight:700;font-style:normal;dominant-baseline:text-before-edge;text-decoration:none;">0x</text></g></g><g><g><text x="70.671875" y="150.94921875" style="white-space:pre;stroke:none;fill:var(--main-text-color);fill-opacity:1;font-size:32.3205px;font-family:&quot;Courier New&quot;, Courier, monospace;font-weight:700;font-style:normal;dominant-baseline:text-before-edge;text-decoration:none;">61726368 </text><text x="70.671875" y="196.19140625" style="white-space:pre;stroke:none;fill:var(--main-text-color);fill-opacity:1;font-size:32.3205px;font-family:&quot;Courier New&quot;, Courier, monospace;font-weight:700;font-style:normal;dominant-baseline:text-before-edge;text-decoration:none;">206C6162</text></g></g></g></svg>
+</svg>
+
+  <!-- </g>
+  </svg> -->
+  <!-- </picture></p> -->
